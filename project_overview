@@ -43,3 +43,16 @@ SEGMENT  |  AGE_BAND      |
 6.Ensure all null string values with an "unknown" string value in the original segment column as well as the new age_band and demographic columns
 7.Generate a new avg_transaction column as the sales value divided by transactions rounded to 2 decimal places for each record
 /*
+
+B. Data Exploration
+
+1.Which week numbers are missing from the dataset?
+2.How many total transactions were there for each year in the dataset?
+3.What are the total sales for each region for each month?
+4.What is the total count of transactions for each platform
+5.What is the percentage of sales for Retail vs Shopify for each month?
+6.What is the percentage of sales by demographic for each year in the dataset?
+7.Which age_band and demographic values contribute the most to Retail sales?
+
+
+
